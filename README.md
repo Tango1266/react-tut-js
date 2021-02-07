@@ -1,5 +1,5 @@
 # Demo
-https://tango1266.github.io/react-tut-js/
+https://dplantera.github.io/react-tut-js/
 
 ![](docs/demo.gif)
 # Getting Started with Create React App
